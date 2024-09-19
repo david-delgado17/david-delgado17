@@ -29,3 +29,4 @@ Hello there, I'm David Delgado! I am currently completing my Bachelors in Comput
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
+
