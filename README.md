@@ -2,7 +2,7 @@ Hello there, I'm David Delgado! I am currently completing my Bachelors in Comput
 
 ## Right now, I am:
 
-- Working towards my **AWS Cloud Practitioner** certification 🚧
+- Working towards my **AWS Cloud Practitioner** certification ✅
 - Working towards my **ITIL V4 Foundations** certification ✅
 - Studying  **Discrete Math I** 🚧
 
