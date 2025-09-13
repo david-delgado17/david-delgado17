@@ -1,11 +1,4 @@
-Hello there, I'm David Delgado! I am currently completing my Bachelors in Computer Science. And when I am not studying, you'll find me learning Portuguese.
-
-## Right now, I am:
-
-- Working towards my **AWS Cloud Practitioner** certification ✅
-- Working towards my **ITIL V4 Foundations** certification ✅
-- Creating my **Website Portfolio** ⏳
-
+Hello there, I'm David Delgado!
 
 ## Languages I have used:
 
